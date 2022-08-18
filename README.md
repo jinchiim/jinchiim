@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 멋쟁이 사자처럼 10기
+- 삼육대학교 IT융합공학과
+
 i'm studying... 🎓
 
 
