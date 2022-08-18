@@ -25,4 +25,5 @@ i'm studying... 🎓
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchiim&layout=compact&theme=synthwave)
 
 
- ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+It's my contribution graph! 🐍
+ ![snake gif](https://github.com/jinchiim/jinchiim/blob/output/github-contribution-grid-snake.gif)
