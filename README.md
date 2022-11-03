@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 멋쟁이 사자처럼 10기
 - 삼육대학교 IT융합공학과
+- 넥슨 MSW SuperHackerton 진행중  . . .
 
 i'm studying... 🎓
 
