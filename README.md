@@ -35,5 +35,3 @@ i'm studying... 🎓
 It's my contribution graph! 🐍
  ![snake gif](https://github.com/jinchiim/jinchiim/blob/output/github-contribution-grid-snake.svg)
  
- 
- <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
