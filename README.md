@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 삼육대학교 IT융합공학과
 - SW 프로젝트 경진대회 참가
 - 멋쟁이 사자처럼 10th 아이디어톤 참가
-- 넥슨 MSW SuperHackerton 진행중  . . 
+- 넥슨 MSW SuperHackerton 참가
 
 
 i'm studying... 🎓
