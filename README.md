@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - SW 프로젝트 경진대회 참가
 - 멋쟁이 사자처럼 10th 아이디어톤 참가
 - 넥슨 MSW SuperHackerton 참가
+- 기술 블로그 짜는중 .... https://velog.io/@nellroll
 
 
 i'm studying... 🎓
