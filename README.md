@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 멋쟁이 사자처럼 10th 아이디어톤 참가
 - 넥슨 MSW SuperHackerton 참가
 - 벤처 스타트업 아카데미 백엔드 트랙 참여중...
-- SOPT 32기 서버 파트 YB
-- 기술 블로그 짜는중 .... https://velog.io/@nellroll
+- SOPT 32기 서버 YB
+- 기술 블로그 (Algorithm 위주) 짜는중 .... https://velog.io/@nellroll
 
 
 i'm studying... 🎓
