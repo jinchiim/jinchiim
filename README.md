@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 - 삼육대학교 IT융합공학과
 - 멋쟁이 사자처럼 10th 아이디어톤 삼육대 대표 참가
 - 넥슨 MSW SuperHackerton 참가
-- 벤처 스타트업 아카데미 백엔드 트랙 참여중...
+- 벤처 스타트업 아카데미 백엔드 트랙 참여
 - 원티드 프리온보딩 진행중....
 - **SOPT 32기 서버 YB**
+- <담타고> 웹서비스 백엔드
 - **기술 블로그 (Algorithm 위주)** 짜는중 .... https://velog.io/@nellroll
 
 
