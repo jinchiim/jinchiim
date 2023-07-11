@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 벤처 스타트업 아카데미 백엔드 트랙 참여
 - **SOPT 32기 서버 YB**
 - <<담타고>> 웹서비스 Backend
-- 팀블로그 Palmsprings Backend 
+- 팀블로그 **Palmsprings** Backend [2023.07.01 ~ ing]
 - **기술 블로그 (Algorithm 위주)** ing https://velog.io/@nellroll
 
 
