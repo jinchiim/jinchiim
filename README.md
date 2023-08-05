@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 멋쟁이 사자처럼 10th 아이디어톤 삼육대 대표 참가 [2022.07.18]
 - 벤처 스타트업 아카데미 백엔드 트랙 참여 [2023.03.01 ~ ing]
 - It 벤처 창업 동아리 SOPT 32기 서버 [2023.04.01 ~ 2023.07.29]
-- <<담타고>> 웹서비스 Backend [2023.05.20  ~ 2023.05.21]
+- <<담타고>> **웹서비스 Backend** [2023.05.20  ~ 2023.05.21]
 - '우리 팀 이야기를 세상에 전달하는 방법 ' 팀블로그 **Palmsprings** Backend [2023.07.01 ~ ing]
 - SOPT 15주년 Conference **PalmSpring** 팀 Backend로 참여 [2023.08.27 예정]
 - **기술 블로그** ing https://velog.io/@nellroll
