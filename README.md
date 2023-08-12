@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - <<담타고>> **웹서비스 Backend** [2023.05.20  ~ 2023.05.21]
 - '우리 팀 이야기를 세상에 전달하는 방법 ' 팀블로그 **Palmsprings** Backend [2023.07.01 ~ ing]
 - SOPT 15주년 Conference **PalmSpring** 팀 Backend로 참여 [2023.08.27 예정]
-- **기술 블로그** ing https://velog.io/@nellroll
+- **기술 블로그** ing.. https://velog.io/@nellroll
 - 🏆 AWS 동덕여대 X 삼육대 아이디어톤 **'내 손안에 보이는 작은 쉼터' HeatDa 1등**  [2023.08.04 ~ 2023.08.05]
 
 i'm studying... 🎓
