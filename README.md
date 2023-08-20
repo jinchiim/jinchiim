@@ -40,5 +40,5 @@ i'm studying... 🎓
 
 
 It's my contribution graph! 🐍
- ![snake gif](https://github.com/jinchiim/jinchiim/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jinchiim/jinchiim/blob/output/github-contribution-grid-snake.svg)
  
