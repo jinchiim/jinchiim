@@ -1,4 +1,5 @@
 ### My Work
+---
 
 <!--
 **jinchiim/jinchiim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,13 +27,13 @@ Here are some ideas to get you started:
 - 👩‍💻 Conference **MIND23** **PalmSpring** 팀 Server Engineer로 참여 [2023.08.27]
 - **기술 블로그** ing.. https://velog.io/@nellroll
 
-i'm studying... 🎓
+### i'm studying... 🎓
+---
+<br>
 
-
-![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white")
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![mysql](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white)<br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br> ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br> ![mysql](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)
+<br>![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
         
 
 
