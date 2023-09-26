@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 ![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white)<br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)<br> ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br> ![mysql](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)
 <br>![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
-        
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinchiim&layout=compact&theme=synthwave)
 
 
 It's my contribution graph! 🐍
