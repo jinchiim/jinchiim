@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br>
 
 ![SpringBoot](https://img.shields.io/badge/Springboot-green?style=for-the-badge&logo=spring&logoColor=white)<br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white") <br>
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![mysql](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![mysql](https://img.shields.io/badge/redis-red?style=for-the-badge&logo=redis&logoColor=white)
 <br>![AWS](https://img.shields.io/badge/amazonec2-F7B93E?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 
