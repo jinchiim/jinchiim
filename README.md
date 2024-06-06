@@ -42,4 +42,11 @@ https://polla.palms.blog/home
 and more..
 
 ![snake gif](https://github.com/jinchiim/jinchiim/blob/output/github-contribution-grid-snake.svg)
- 
+
+ <a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/jinchiim"
+  width="600"
+  height="300"
+/>
+</a>
