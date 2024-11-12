@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - 🏆 AWS 동덕여대 X 삼육대 아이디어톤 **'내 손안에 보이는 작은 쉼터' HeatDa 1등**  [2023.08.04 ~ 2023.08.05]
 - 👩‍💻 Conference **MIND23** **PalmSpring** 팀 Server Engineer로 참여 [2023.08.27]
 - **기술 블로그** ing.. <br>
-https://velog.io/@nellroll <br>
 https://polla.palms.blog
 ---
 
